@@ -1,2 +1,2 @@
 # Netflixclone
-## Host Link : https://sushankznation.github.io/Netflixclone-main/
+## Host Link :https://netflix-clone-gold-beta.vercel.app/
